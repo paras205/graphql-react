@@ -187,7 +187,8 @@
 			"last_name": "Stovine",
 			"email": "tstovinem@google.es",
 			"gender": "Female",
-			"ip_address": "127.63.223.140"
+			"ip_address": "127.63.223.140",
+			"companyID": 4
 		},
 		{
 			"id": 24,
